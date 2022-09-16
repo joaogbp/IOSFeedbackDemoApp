@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "iosfeedback",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joaogbp/iOSFeedback.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0eeaad2130fae7f6b4467687027004abe6f8eecb"
+      }
+    }
+  ],
+  "version" : 2
+}
